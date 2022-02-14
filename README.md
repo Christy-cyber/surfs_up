@@ -27,11 +27,10 @@ Fig. 1.  Summary statistics for temperature (deg F) for the month of June on the
 Fig. 2.  Summary statistics for temperature (deg F) for the month of December on the island of Oahu.
 
 ## Summary
-
-
+A majority of temperatures for June and December fall above 69 F, an acceptable surfing temperature. Considering that the standard deviation is +/- 3.2 F and 3.7 F for June and December, respectively, temperatures in December could fall around 67 F, about 4 degrees below the mean, which is still an acceptable surfing temperature.
 
 ### Additional Recommended Analyses
-- Plot temperature for June and December separately to see how many days fall above 60 deg F.
+- Plot temperature data for June and December separately to see how many days fall above 60 deg F.
 
 - Filter based on precipitation for the months of June and December across the same years, then plot precipitation along with temperature in a single bar graph in order to understand basic trends.
 
